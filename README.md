@@ -1,2 +1,2 @@
 # first-repository
-A specie of "Hello World" of GitHub, to remember my start of career later.
+It's a specie of esoteric "Hello World" of GitHub, that includes TypeScript, JavaScript and HTML,to remember my start of career later.
